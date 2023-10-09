@@ -8,3 +8,5 @@ Sample applications are available for the other frameworks here:
 * FastAPI [https://github.com/Azure-Samples/msdocs-python-fastapi-webapp-quickstart](https://github.com/Azure-Samples/msdocs-python-fastapi-webapp-quickstart)
 
 If you need an Azure account, you can [create one for free](https://azure.microsoft.com/en-us/free/).
+
+[![Build Status](https://dev.azure.com/odluser242502/msdocs-python-flask-webapp-quickstart/_apis/build/status%2FElmerAvila09.msdocs-python-flask-webapp-quickstart?branchName=main)](https://dev.azure.com/odluser242502/msdocs-python-flask-webapp-quickstart/_build/latest?definitionId=1&branchName=main)
